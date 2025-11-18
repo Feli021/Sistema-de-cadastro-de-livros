@@ -8,4 +8,4 @@ Código     | Título                         | Autor                     | Pre�
 6          | Harry Potter                   | J.K.Rolling               |      10.00
 7          | Chapeu Vermelho                | Sara                      |      35.00
 
-Última atualização: 06/11/2025 20:53:29
+Última atualização: 18/11/2025 17:25:58

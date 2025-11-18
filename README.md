@@ -1,24 +1,56 @@
-Primeiramente, gostaria de agradecer por poder chegar a etapa do desafio. Infelizmente meu conhecimento ainda é limitado para esta vaga, mas felizmente, eu sei que estou no caminho certo, e agora com esse desafio, eu irei aprender mais. Não tenho ou tenho pouco conhecimento de front-end ainda, e não sei React e Go, ainda. Mas ainda sim, eu ainda não tinha conesguido chegar a etapa de desafio e nao tinha muita noção de como era, agora vou ter. Irei continuar minha jornada e quem sabe em um futuro próximo, posso estar de novo em uma oportunidade na empresa de vocês. Obrigado. Abaixo mandei um projeto que fiz, que reflete um pouco do que estou estudando e o sei fazer no momento atual. No readme, deixei meus contatos, me acompanhem pelo ou linkedin e/ou pelo git, onde estou e estarei postando meus projetos, meus estudos, um pouco da minha vida e objetivos profissionais.
+# Sistema de Cadastro de Livros
+O Sistema de Cadastro de Livros foi desenvolvido para auxiliar na organização de uma biblioteca pessoal de forma simples e eficiente.
+A aplicação conta com uma interface gráfica intuitiva construída com Tkinter, permitindo ao usuário:
+
+- Cadastrar novos livros
+
+- Atualizar informações existentes
+
+- Excluir registros
+
+- Consultar livros automaticamente pelo nome
+
+- Além disso, o sistema gera um relatório atualizado contendo todos os livros cadastrados, facilitando o gerenciamento e a visualização da coleção.
+
+---
+
+## Funcionalidades
+
+- **Consulta inteligente por nome**
+  - Preenchimento automático caso o livro exista no banco
+  - Exibição de mensagem caso o livro não seja encontrado
+
+- **Cadastro de livros**
+  - Inclusão de novos livros com os dados principais da obra
+
+- **Atualização de registros**
+  - Edição das informações de um livro já cadastrado
+
+- **Exclusão de livros**
+  - Remoção definitiva de registros da base de dados
+
+- **Geração de relatórios atualizados**
+  - Criação de um relatório completo com todos os livros cadastrados
+
+- **Interface gráfica intuitiva (Tkinter)**
+  - Navegação simples e acessível para qualquer usuário
 
 
-### README do Código:
+---
 
-# Projeto RAD\Sistema de cadastro de livros de uma biblioteca pressoal.
-
-## 🧰 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python
-- Django 
+- Django (ORM)
 - PostgreSQL
 - Tkinter
 
 ---
 
-## ⚙️ Como rodar o projeto
+## Como rodar o projeto
 
 ### Clone este repositório
-git clone https://github.com/Feli021/desafio-fullstack-veritas
-
+git clone https://github.com/Feli021/Sistema-de-cadastro-de-livros.git
 ### Instale as dependências
 pip install -r requirements.txt
 

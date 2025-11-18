@@ -9,7 +9,7 @@ from datetime import datetime
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "Sistema_de_gerenciamento.settings")
 django.setup()
 
-from myapp.models import Livro  # Importar o model do app
+from myapp.models import Livro 
 
 # ------------------- Funções CRUD -------------------
 
